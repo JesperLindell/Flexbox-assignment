@@ -1,9 +1,24 @@
 main {
-    height: 100vh;
+    min-height: 100vh;
     background-color: #370617;
     display: flex;
-    justify-content: space-evenly
+    justify-content: space-evenly 
+    
+   
+    
+  
+    
 }
+
+
+  
+   
+
+   
+    
+  
+    
+
 
 
 
@@ -16,7 +31,7 @@ main {
     min-width: 80pt;
     min-height: 80pt;
     background-color: #F48C06;
-
+    flex-wrap: wrap;
 }
 
 .card {
